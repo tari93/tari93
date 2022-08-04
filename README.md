@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- [ ] Welcome to my github account, my name's Tarik Aimad and I'm passionate about the intersection between software engineering domain and the entrepreuneurial world
+- [ ] I love working on creative projects where the mission matters for me, that would requires some craftmanship and innovation..
+
+
+### Personal projects
+- Matchin : https://matchinapp.com/
+
 <!--
 **tari93/tari93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
